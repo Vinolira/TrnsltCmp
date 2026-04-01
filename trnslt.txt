@@ -48,4 +48,120 @@ Macaubrun esporeia o corcel de Castela.
 O cavalo esporeia e golpeia com esporas douradas.
 
 Source:Gemini
-Text:
+Text:O cavalo pica e esporeia com esporas de ouro puro.
+Ele esporeia o cavalo que chamam de Petrris.
+Ele esporeia o cavalo com postura feroz.
+Com as esporas golpeou o corcel espanhol.
+O cavalo pica e esporeia por um prado gramado.
+E esporeia o cavalo que se apressa em correr.
+Então esporeia o corcel, não pensa mais em parar.
+Então esporeia o cavalo, contra eles se lançou.
+Ele esporeia o cavalo e com ele mil jovens nobres.
+O cavalo pica e esporeia, não deixará de atacá-los.
+E esporeia o cavalo com esporas aguçadas.
+Macabruns esporeia o corcel de Castela.
+O cavalo pica e esporeia com esporas douradas.
+
+Case:2
+Mode:
+Lang:
+Text:Qant li rois Alixandres fu nes en icel jor,  
+Avec lui furent né trente fil de contor  
+Qui furent gentil home et bon conquereor;  
+De la terre de Gresce estoient li plusior  
+Et tuit li autre estoient gentil Masedonor.  
+Cil souffrirent o lui mainte ruïste dolor  
+En la terre eschaudee ou n’ot onques froidor,  
+Tous jors vesquirent d’armes, itel fu lor labor.  
+Par ciaus et par les autres conquist li grant honor,  
+Car de par toutes terres le tint on a seignor.
+
+Lang:Portugues
+Source:Google
+Text:Quando o Rei Alexandre nasceu naquele dia,
+Com ele nasceram trinta filhos de condes,
+Que eram homens nobres e bons conquistadores;
+Da Grécia eram os mais proeminentes,
+E todos os outros eram nobres masedonores.
+Eles sofreram muitas dores terríveis por sua causa,
+Na terra escaldada onde nunca havia frio,
+Eles sempre viveram pelas armas, tal era o seu trabalho.
+Por esta terra e por outras, ele conquistou grande honra,
+Pois por todas as terras ele foi considerado senhor.
+
+Source:ChatGPT
+Text:Quando o rei Alexandre nasceu naquele dia,
+com ele nasceram trinta filhos de condes,
+que foram nobres homens e bons conquistadores;
+a maioria era da terra da Grécia,
+e todos os outros eram nobres macedônios.
+Eles suportaram com ele muitas duras dores
+na terra escaldante onde nunca houve frio;
+sempre viveram das armas, tal era o seu labor.
+Por meio deles e dos outros, ele conquistou grande honra,
+pois de todas as terras o tinham por senhor.
+
+Source:Gemini
+Text:Quando o rei Alexandre nasceu naquele dia,
+Com ele nasceram trinta filhos de condes
+Que foram homens nobres e bons conquistadores;
+Da terra da Grécia eram a maioria
+E todos os outros eram nobres macedônios.
+Estes sofreram com ele muita dor terrível
+Na terra escaldante onde nunca houve frio,
+Todos os dias viveram das armas, tal foi o seu labor.
+Por estes e por outros, ele conquistou grande honra,
+Pois por todas as terras o consideravam senhor.
+
+Case:3
+Mode:Verse
+Lang:Francois
+Source:Original
+Text:Le jour même de la naissance du roi Alexandre,  
+naquirent en même temps trente fils de comtes,  
+qui devinrent de nobles chevaliers et de bons guerriers.  
+Beaucoup étaient issus de la terre de Grèce,  
+et les autres étaient de nobles Macédoniens.  
+Ils subirent avec lui maintes vives souffrances  
+dans la terre brûlante qui ignore le froid,  
+ne vivant que pour les armes : tel était leur office.  
+Avec eux et bien d'autres il conquit mainte terre,  
+et dans le monde entier on le tint pour seigneur.
+
+Lang:Portugues
+Source:Google
+Text:No próprio dia do nascimento do Rei Alexandre,
+trinta filhos de condes nasceram simultaneamente,
+que se tornaram nobres cavaleiros e habilidosos guerreiros.
+Muitos eram da Grécia,
+e os outros, nobres macedônios.
+Suportaram com ele muitas dificuldades
+na terra escaldante que desconhece o frio,
+vivendo apenas para as armas: tal era o seu dever.
+Com eles e muitos outros, conquistou muitas terras,
+e por todo o mundo foi tido em alta estima.
+
+Source:ChatGPT
+Text:No mesmo dia do nascimento do rei Alexandre,
+nasceram ao mesmo tempo trinta filhos de condes,
+que se tornaram nobres cavaleiros e bons guerreiros.
+Muitos eram oriundos da terra da Grécia,
+e os outros eram nobres macedônios.
+Eles sofreram com ele muitas duras aflições
+na terra ardente que desconhece o frio,
+vivendo apenas para as armas: tal era seu ofício.
+Com eles e muitos outros, ele conquistou muitas terras,
+e no mundo inteiro o tiveram por senhor.
+
+Source:Gemini
+Text:No mesmo dia do nascimento do rei Alexandre,
+nasceram ao mesmo tempo trinta filhos de condes,
+que se tornaram nobres cavaleiros e bons guerreiros.
+Muitos eram oriundos da terra da Grécia,
+e os outros eram nobres macedônios.
+Suportaram com ele muitos e vivos sofrimentos
+na terra ardente que desconhece o frio,
+vivendo apenas para as armas: tal era o seu ofício.
+Com eles e muitos outros, ele conquistou muitas terras,
+e no mundo inteiro foi tido como senhor.
+

@@ -1,0 +1,51 @@
+Case:1
+Mode:Verse
+Lang:Francois
+Source:Original
+Text:Le cheval point et broche des esperons d’or mier.
+Il broche le cheval que on claime Petrris.
+Il broche le cheval par fiere contenance.
+Des esperons hurta le destrier espanois.
+Le cheval point et broche par mi un pré herbous.
+Et broche le cheval qui de corre s’argüe.
+Lors broche le destrier, ne cuit que mais remaigne.
+Lors broche le cheval, vers aus est eslaisisiés.
+Il broche le cheval et o lui mil dansel.
+Le cheval point et broche, ne laira nes asaillie.
+Et broche le cheval des esperons agus.
+Macabruns esperone le destrier de Castele.
+Le cheval point et broche des esrons dorés.
+
+Lang:Portugues
+Source:Google
+Text:O cavalo tem as patas dianteiras afiladas e está cravejado de esporas douradas.
+Ele prende o cavalo que afirmamos ser Pertris.
+Ele imobiliza o cavalo com um semblante orgulhoso.
+As esporas feriram o cavalo espanhol.
+O cavalo aponta e se posiciona firmemente em meio a um prado gramado.
+E algeme o cavalo que discute com o corre.
+Quando o cavalo é assado, ele apenas cozinha, mas permanece.
+Quando o cavalo é empurrado, o lado oposto é deixado para trás.
+Ele imobiliza o cavalo e dança mil vezes para ele.
+O cavalo aponta e imobiliza, não desembainhará a espada em ataque.
+E prenda o cavalo com esporas afiadas.
+Macabruns impulsionam o destrier do Castelo.
+O cavalo tem pontas e broches de esporas douradas.
+
+Source:ChatGPT
+Text:O cavalo esporeia e golpeia com esporas de ouro puro.
+Ele esporeia o cavalo que chamam Pertuis.
+Ele esporeia o cavalo com grande ímpeto.
+Das esporas ele fere o corcel espanhol.
+O cavalo esporeia e golpeia por entre um prado herboso.
+E esporeia o cavalo que corre na areia.
+Então esporeia o corcel, não se detém nem permanece.
+Então esporeia o cavalo, em direção aos desfiladeiros.
+Ele esporeia o cavalo e ali não dança mais.
+O cavalo esporeia e golpeia, não o deixará em paz.
+E esporeia o cavalo com esporas afiadas.
+Macaubrun esporeia o corcel de Castela.
+O cavalo esporeia e golpeia com esporas douradas.
+
+Source:Gemini
+Text:

@@ -14,6 +14,19 @@ public class Main
         Scanner scanner=new Scanner(System.in);
         Catalogo<Item> produtos=new Catalogo();
         Catalogo<Pessoa> clientes=new Catalogo();
+
+//Objetos
+        /**/
+        Item bolacha=new Item(1,"bolacha",5);
+        saldo-=bolacha.comprar(50000);
+        produtos.adicionar(bolacha);
+        Item bolsa=new Item(1,"bolsa",250);
+        produtos.adicionar(bolsa);
+        bolsa.setQuantidade(20000);
+        bolsa.setValorPromocional(200);
+        saldo+=bolsa.vender(10000);
+        /**/
+        
         while(true)
         {
             System.out.printf("(1) Cadastrar produto\n(2) Cadastrar cliente\n(3) Registrar compra\n(4) Registrar venda\n(5) Gerenciar estoque\n(6) Gerar relatório\n(0) Sair\n");

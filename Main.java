@@ -5,6 +5,7 @@ import classes.Pessoa;
 import classes.Catalogo;
 
 import java.util.Scanner;
+import java.util.InputMismatchException;
 
 public class Main
 {
@@ -30,7 +31,14 @@ public class Main
         while(true)
         {
             System.out.printf("(1) Cadastrar produto\n(2) Cadastrar cliente\n(3) Registrar compra\n(4) Registrar venda\n(5) Gerenciar estoque\n(6) Gerar relatório\n(0) Sair\n");
-            int opcao=scanner.nextInt();
+            int opcao=-1;
+            try{
+            opcao=scanner.nextInt();
+            }catch(InputMismatchException e)
+            {
+                System.out.println("Problema de tipagem!");
+                break;
+            }
             if(opcao==0)
             {
                 break;
